@@ -28,6 +28,7 @@ void updateIPK(double ipkBaru) {
     }
 }
 
+
     String nilaiKinerja() {
         if (ipk >= 3.5) {
             return "Kinerja Sangat Baik";
